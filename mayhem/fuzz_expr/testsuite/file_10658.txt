@@ -1,0 +1,1 @@
+max(true ? i : ok)

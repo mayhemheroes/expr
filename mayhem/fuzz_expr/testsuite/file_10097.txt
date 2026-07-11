@@ -1,0 +1,1 @@
+map(list, map(array, score))

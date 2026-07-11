@@ -1,0 +1,1 @@
+not ("bar" not matches "bar")

@@ -1,0 +1,1 @@
+map(ok ? array : foo, # / 1)

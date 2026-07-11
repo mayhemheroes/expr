@@ -1,0 +1,1 @@
+max(-count(list, false), i64)

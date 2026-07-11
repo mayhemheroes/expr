@@ -1,0 +1,9 @@
+project: expr
+target: fuzz_expr
+cmds:
+  - cmd: /mayhem/fuzz_expr
+    libfuzzer: true
+    dictionary: /mayhem/mayhem/fuzz_expr.dict
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_expr/testsuite

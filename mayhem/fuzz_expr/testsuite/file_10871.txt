@@ -1,0 +1,1 @@
+min(findLast(array, true))

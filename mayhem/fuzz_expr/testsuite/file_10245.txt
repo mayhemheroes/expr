@@ -1,0 +1,1 @@
+map(true ? "foo" : add, i64)

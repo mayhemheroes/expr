@@ -1,0 +1,1 @@
+max(findIndex(list, true))

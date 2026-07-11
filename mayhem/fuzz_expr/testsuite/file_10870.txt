@@ -1,0 +1,1 @@
+min(findIndex(list, ok))
